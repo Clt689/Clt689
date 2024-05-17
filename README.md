@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://github.com/KR-EGOIST/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+[![](https://github.com/Clt689/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
 ![Clt689's github stats](https://github-readme-stats.vercel.app/api?username=Clt689&show_icons=true)
 
 <!--
