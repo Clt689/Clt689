@@ -1,7 +1,12 @@
 ### 안녕하세요😊  환영합니다👋 
 [![](https://github.com/Clt689/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
 ![Clt689's github stats](https://github-readme-stats.vercel.app/api?username=Clt689&show_icons=true)
- 
+
+
+---
+### 🏫 Career
+- 팀스파르타 인턴즈 2기(2024.08 ~ )
+
 <!--   
 **Clt689/Clt689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
