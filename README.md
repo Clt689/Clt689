@@ -5,7 +5,7 @@
 
 ---
 ### 🏫 Career
-- 팀스파르타 인턴즈 2기 (2024.08 ~ 2024.12)
+<img src="https://github.com/user-attachments/assets/e8c8994c-3537-4131-bc4d-6394d737f878" width=30> 팀스파르타 인턴즈 2기 (2024.08 ~ 2024.12)
 
 <!--   
 **Clt689/Clt689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
