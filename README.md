@@ -3,6 +3,8 @@
 
 
 ---
+<br>
+
 ## 🏫 Career
 <img src="https://github.com/user-attachments/assets/e8c8994c-3537-4131-bc4d-6394d737f878" width=70> 
 
