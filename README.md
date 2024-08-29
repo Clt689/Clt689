@@ -15,7 +15,7 @@
 </div>
 
 <div align="left" >
-  <h2 align="left">♾️ Deploy</h2>
+  <h2 align="left">🌐 Deploy</h2>
   
   <div align="left" >
     <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/>
@@ -23,7 +23,7 @@
 </div>
 
 <div align="left" >
-  <h2 align="left">🤝🏻 Cooperation Tool</h2>
+  <h2 align="left">👥 Cooperation Tool</h2>
   
   <div align="left" >
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
@@ -50,7 +50,7 @@
 ![Clt689's github stats](https://github-readme-stats.vercel.app/api?username=Clt689&show_icons=true)
 
 **Clt689/Clt689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🤝🏻🤝🏻🤝🏻🤝🏻
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
