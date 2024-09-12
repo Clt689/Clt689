@@ -1,3 +1,12 @@
+
+<div align = "left">
+  <h2>✏️Studying</h2>
+      <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<br>
+
+  
 <div align="left" >
   <h2 align="left">🖥️ Frontend</h2>
   
@@ -7,13 +16,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <h3> 
-      ✏️ Studying
-    </h3>
-      <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-      <!--
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-    --!>
   </div>
 </div>
 
