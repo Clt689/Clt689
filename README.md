@@ -1,4 +1,4 @@
-## 🏢 Career
+### 🏢 Career
 <img src="https://github.com/user-attachments/assets/e8c8994c-3537-4131-bc4d-6394d737f878" width=60 height=60>
  
 - 팀스파르타 인턴즈 2기 ( 2024.08 ~ now )
@@ -6,7 +6,7 @@
 ---
 
 <div align = "left">
-  <h2>✏️ Studying</h2>
+  <h3>✏️ Studying</h3>
       <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -15,7 +15,7 @@
 
     
 <div align="left" >
-  <h2 align="left">🖥️ Frontend</h2>
+  <h3 align="left">🖥️ Frontend</h3>
   
   <div align="left" >
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -28,7 +28,7 @@
 </div>
 
 <div align="left" >
-  <h2 align="left">🌐 Deploy</h2>
+  <h3 align="left">🌐 Deploy</h3>
   
   <div align="left" >
     <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/>
@@ -36,7 +36,7 @@
 </div>
 
 <div align="left" >
-  <h2 align="left">👥 Cooperation Tool</h2>
+  <h3 align="left">👥 Cooperation Tool</h3>
   
   <div align="left" >
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
