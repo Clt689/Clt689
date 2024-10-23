@@ -1,7 +1,11 @@
 ### 🏢 Career
 <img src="https://github.com/user-attachments/assets/e8c8994c-3537-4131-bc4d-6394d737f878" width=60 height=60>
  
-- 팀스파르타 인턴즈 2기 ( 2024.08 ~ now )
+- 팀스파르타 인턴즈 2기 ( 2024.08 ~ 2024.12 )
+
+<img src="https://github.com/user-attachments/assets/bced1f06-398b-4b91-a576-73a627bfd310" width=60 heigth=60>
+
+- Inzisoft ( 2025.01 ~ )
 
 ---
 <!--
