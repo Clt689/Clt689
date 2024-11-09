@@ -1,6 +1,6 @@
 ### 🏢 Career
  
-- TeamSparta B2B Intern ( 2024.08 ~ 2024.12 )
+- TeamSparta B2B Intern ( 2024.08 ~ 2024.12 ) 
 
 ---
 <!--
