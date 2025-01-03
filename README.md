@@ -1,7 +1,7 @@
 ### 🏢 Career
  
 - TeamSparta B2B Intern ( 2024.08 ~ 2024.12 )  
-- Inzisoft ( 2025.01 ~ )  
+- Inzisoft Software Developer ( 2025.01 ~ )  
 ---
 <!-- 
 <img src="https://github.com/user-attachments/assets/e8c8994c-3537-4131-bc4d-6394d737f878" width=60 height=60>
