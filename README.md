@@ -44,6 +44,7 @@
   
   <div align="left" >
     <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
   </div>
 </div>
 
