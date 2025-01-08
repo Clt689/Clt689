@@ -1,7 +1,7 @@
 ### 🏢 Career
  
 - **TeamSparta.** B2B Intern ( 2024.08 ~ 2024.12 )  
-- **Inzisoft.** Software Developer ( 2025.01 ~ )   
+- **InziSoft.** Software Developer ( 2025.01 ~ )   
 ---
 <!-- 
 <img src="https://github.com/user-attachments/assets/e8c8994c-3537-4131-bc4d-6394d737f878" width=60 height=60>
@@ -18,6 +18,7 @@
 
 <div align = "left">
   <h3>✏️ Studying</h3>
+      <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
