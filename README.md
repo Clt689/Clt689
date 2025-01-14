@@ -3,23 +3,21 @@
 - Focuses not just on being a skilled developer but on being someone others want to work with.
 - Values communication and collaboration above all else.
 
+<br>
+
 ### 🏢 Career
- 
 - **TeamSparta.** B2B Intern ( 2024.08 ~ 2024.12 )  
 - **InziSoft.** Software Developer ( 2025.01 ~ )   
----
+
+<br>
+
+### 🚀 Activities
+- 컨퍼런스, 세미나, 웨비나 등 행사에 혼자서라도 참여하여 **인사이트를 얻는 것**을 좋아해요.
+- [참여 행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
+
 <!-- 
 <img src="https://github.com/user-attachments/assets/e8c8994c-3537-4131-bc4d-6394d737f878" width=60 height=60>
 <img src="https://github.com/user-attachments/assets/bced1f06-398b-4b91-a576-73a627bfd310" width=60 heigth=60>
-
-### 👨🏻‍💻 Activities
--  2024 원티드 하이파이브 컨퍼런스
--  2024 원티드 프리온보딩 4월, 8월
--  원티드 커리어 코칭
--  2024 AUSGCON
--  신입 개발자를 위한 커뮤니케이션 향상 스킬, 이성윤 아디다스 팀장 -->
-
-
 
 <div align = "left">
   <h3>✏️ Studying</h3>
