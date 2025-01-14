@@ -1,4 +1,4 @@
-### I aspire to be a developer who:
+### 👨🏻‍💻 I aspire to be a developer who:
 - Always asks, "Why are we doing it this way?" and works with clear and specific goals.
 - Focuses not just on being a skilled developer but on being someone others want to work with.
 - Values communication and collaboration above all else.
