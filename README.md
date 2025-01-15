@@ -27,8 +27,6 @@
   <h3 align="left">🖥️ Frontend</h3>
   
   <div align="left" >
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
@@ -61,6 +59,10 @@
 <br>
 
 <!--
+
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    
 [![](https://github.com/Clt689/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
 ![Clt689's github stats](https://github-readme-stats.vercel.app/api?username=Clt689&show_icons=true)
 
