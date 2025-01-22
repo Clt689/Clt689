@@ -1,8 +1,8 @@
 ### 👨🏻‍💻 I aspire to be a developer who:
-- Always asks, "Why are we doing it this way?" and works with clear and specific goals.
-- Focuses not just on being a skilled developer but on being someone others want to work with.
-- Values communication and collaboration above all else.
-
+- Always asks, "**Why are we doing it this way?**" and works with clear and specific goals.
+- Focuses not just on being a skilled developer but on being someone **others want to work with**.
+- Values **communication **&** collaboration** above all else.
+- I believe that **kindness** is a powerful strength.
 
 ### 🏢 Career
 - **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )  
