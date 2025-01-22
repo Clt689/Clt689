@@ -5,7 +5,7 @@
 
 
 ### 🏢 Career
-- **TeamSparta.** B2B Web Publisher Intern ( 2024.08 ~ 2024.12 )  
+- **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )  
 - **InziSoft.** Software Developer ( 2025.01 ~ )   
 
 
