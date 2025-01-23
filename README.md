@@ -3,6 +3,7 @@
 - Focuses not just on being a skilled developer but on being someone **others want to work with**.
 - Values **communication **&** collaboration** above all else.
 - I believe that **kindness** is a powerful strength.
+- Every piece of code should have **a clear intention**.
 
 ### 🏢 Career
 - **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )  
