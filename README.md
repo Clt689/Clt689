@@ -12,9 +12,8 @@
 
 ### 🚀 Activities
 - 컨퍼런스, 세미나, 웨비나 등 행사에 혼자서라도 참여하여 **인사이트를 얻는 것**을 좋아해요.
-- [참여 행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
+- [참여행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
 
-<br>
 
 <div align = "left">
   <h3>✏️ Studying</h3>
