@@ -5,10 +5,9 @@
 - I believe that **kindness** is a powerful strength.
 - Every piece of code should have **a clear intention**.
 
-### 🏢 Career
-- **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )  
+### 🏢 Work Experience
 - **InziSoft.** Software Developer ( 2025.01 ~ )   
-
+- **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )  
 
 ### 🚀 Activities
 - 컨퍼런스, 세미나, 웨비나 등 행사에 혼자서라도 참여하여 **인사이트를 얻는 것**을 좋아해요.
