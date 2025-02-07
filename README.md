@@ -6,7 +6,7 @@
 - Every piece of code should have **a clear intention**.
 
 ### 🏢 Work Experience
-- **InziSoft.** Software Developer ( 2025.01 ~ )   
+- **Inzisoft.** Software Developer ( 2025.01 ~ )   
 - **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )  
 
 ### 🚀 Activities
