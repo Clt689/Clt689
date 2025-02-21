@@ -1,9 +1,10 @@
-### 👨🏻‍💻 I aspire to be a developer who: 
+### 👨🏻‍💻 These are the things I value. 
 - Always asks, "**Why are we doing it this way?**" and works with clear and specific goals.
 - Focuses not just on being a skilled developer but on being someone **others want to work with**.
 - Values **communication **&** collaboration** above all else. 
 - I believe that **kindness** is a powerful strength.
 - Every piece of code should have **a clear intention**.
+- I believe that there is no experience without **learning**. Even bad experiences definitely teach us something.
 
 ### 🏢 Work Experience
 - **Inzisoft.** Software Developer ( 2025.01 ~ )   
