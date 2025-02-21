@@ -4,7 +4,7 @@
 - Values **communication **&** collaboration** above all else. 
 - I believe that **kindness** is a powerful strength.
 - Every piece of code should have **a clear intention**.
-- I believe that there is no experience without **learning**. Even bad experiences definitely teach us something.
+<!-- I believe that there is no experience without **learning**. Even bad experiences definitely teach us something. -->
 
 ### 🏢 Work Experience
 - **Inzisoft.** Software Developer ( 2025.01 ~ )   
