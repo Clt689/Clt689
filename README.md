@@ -1,4 +1,4 @@
-### 👨🏻‍💻 These are the things I value. 
+### 👨🏻‍💻 These are the things I value.  
 - Always asks, "**Why are we doing it this way?**" and works with clear and specific goals.
 - Focuses not just on being a skilled developer but on being someone **others want to work with**.
 - Values **communication **&** collaboration** above all else. 
