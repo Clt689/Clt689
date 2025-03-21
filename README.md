@@ -2,6 +2,7 @@
 - Always asks, "**Why are we doing it this way?**" and works with clear and specific goals.
 - Focuses not just on being a skilled developer but on being someone **others want to work with**.
 - Values **communication **&** collaboration** above all else.
+  - [나의 소통 철학 💬](https://celestial-vise-b17.notion.site/1bb6fb311ab580adb5c4c096755e386c)
 - Every piece of code should have **a clear intention**.
 <!-- I believe that there is no experience without **learning**. Even bad experiences definitely teach us something. -->
 
