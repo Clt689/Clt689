@@ -7,7 +7,7 @@
 <!-- I believe that there is no experience without **learning**. Even bad experiences definitely teach us something. -->
 
 ### 🏢 Work Experience
-- **Inzisoft.** Software Developer ( 2025.01 ~ )   
+- **Inzisoft.** Software Engineer ( 2025.01 ~ )   
 - **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )  
 
 ### 🚀 Activities
