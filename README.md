@@ -2,7 +2,7 @@
 - Always asks, "**Why are we doing it this way?**" and works with clear and specific goals. 
 - Focuses not just on being a skilled developer but on being someone **others want to work with**.
 - Values **communication **&** collaboration** above all else.
-  - [나의 소통 철학 💬](https://celestial-vise-b17.notion.site/1bb6fb311ab580adb5c4c096755e386c)
+  - 🔗 [나의 소통 철학 💬](https://celestial-vise-b17.notion.site/1bb6fb311ab580adb5c4c096755e386c)
 - Every piece of code should have **a clear intention**. 
 <!-- I believe that there is no experience without **learning**. Even bad experiences definitely teach us something. -->
 
@@ -12,7 +12,9 @@
 
 ### 🚀 Activities
 - 컨퍼런스, 세미나, 웨비나 등 행사에 혼자서라도 참여하여 **인사이트를 얻는 것**을 좋아해요.
-- [참여행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
+- 🔗 [참여행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
+
+<br>
 
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/nadnerde)](https://velog.io/@nadnerde/posts)
 
