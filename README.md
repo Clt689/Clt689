@@ -21,7 +21,7 @@
   <h3>✏️ Studying</h3>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
+  
   
 <br>
     
@@ -62,7 +62,7 @@
 </div>
 
 <br>
-
+    <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
   
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
