@@ -19,6 +19,7 @@
 
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/nadnerde)](https://velog.io/@nadnerde/posts)
 
+<!--      
 
 <div align = "left">
   <h3>✏️ Studying</h3>
@@ -27,7 +28,6 @@
   
   
 <br>
-    
 <div align="left" >
   <h3 align="left">🖥️ Frontend</h3>
   
@@ -41,7 +41,7 @@
   </div>
 </div>
 
-<!--  
+
 
 <div align="left" >
   <h3 align="left">🌐 Deploy</h3>
