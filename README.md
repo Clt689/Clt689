@@ -1,4 +1,4 @@
-### 👨🏻‍💻 These are the things I value.  
+## 👨🏻‍💻 These are the things I value.  
 - Always asks, "**Why are we doing it this way?**" and works with clear and specific goals. 
 - Focuses not just on being a skilled developer but on being someone **others want to work with**.
 - Values **communication **&** collaboration** above all else.
@@ -6,14 +6,17 @@
 - Every piece of code should have **a clear intention**. 
 <!-- I believe that there is no experience without **learning**. Even bad experiences definitely teach us something. -->
 
-### 🏢 Work Experience
+## 🏢 Work Experience
 - **Inzisoft.** Software Engineer ( 2025.01 ~ )   
-- **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )  
+- **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )
 
-### 🚀 Activities
+## 🖥️ Project
+- [**Mayo(마감해요)**](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmayo_magam%2F&is_from_rle) - Frontend Developer (2025.04 ~ )
+
+## 🚀 Activities
 - **2025 Open Source Contribution.** Mentee ( 2025.04 ~ 2025.05)
 - 컨퍼런스, 세미나, 웨비나 등 행사에 혼자서라도 참여하여 **인사이트를 얻는 것**을 좋아해요.
-- 🔗 [참여행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
+  - 🔗 [참여행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
 
 <br>
 
