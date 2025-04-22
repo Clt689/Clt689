@@ -11,7 +11,7 @@
 - **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )
 
 ## 🖥️ Project
-- [**Mayo(마감해요)**](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmayo_magam%2F&is_from_rle) - Frontend Developer (2025.04 ~ )
+- [**Mayo(마감해요)**](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmayo_magam%2F&is_from_rle) - Frontend Developer ( 2025.04 ~ )
 
 ## 🚀 Activities
 - **2025 Open Source Contribution.** Mentee ( 2025.04 ~ 2025.05 )
