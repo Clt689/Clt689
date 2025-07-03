@@ -17,7 +17,7 @@
 
 ### [**2025 OSSCA Next.js TIL BLOG**](https://ossca-team-nextjs.vercel.app/)
 #### Mentee ( 2025.04 ~ 2025.06 )
-> 2025 오픈 소스 컨트리뷰션 아카데미[체험형] Next.js 팀원들이 작성한 TIL을 모아둔 블로그예요.
+> 2025 오픈 소스 컨트리뷰션 아카데미 [체험형] - Next.js 멘티들이 작성한 TIL을 모아둔 블로그입니다.
 
 ## 🚀 Activities
 - **2025 Open Source SW Contribution Academy.** Mentee ( 2025.04 ~ 2025.05 )
