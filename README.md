@@ -7,11 +7,17 @@
 <!-- I believe that there is no experience without **learning**. Even bad experiences definitely teach us something. -->
 
 ## 🏢 Work Experience
-- **Inzisoft.** Software Engineer ( 2025.01 ~ )   
+- **Inzisoft.** Software Engineer ( 2025.01 ~ now )   
 - **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )
 
 ## 🖥️ Project
-- [**Mayo(마감해요)**](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmayo_magam%2F&is_from_rle)  Frontend Developer ( 2025.04 ~ )
+### [**Mayo(마감해요)**](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmayo_magam%2F&is_from_rle) 
+#### Web Frontend Developer ( 2025.04 ~ )
+> 조선대학교 인액터스 동아리가 운영하는 서비스로, 학생들의 식비 부담을 줄이고 상점의 유통기한 임박 재고를 해결하기 위해 마감 할인 메뉴를 제공하는 서비스입니다.
+
+### [**2025 OSSCA Next.js TIL BLOG**](https://ossca-team-nextjs.vercel.app/)
+#### Mentee ( 2025.04 ~ 2025.06 )
+> 2025 오픈 소스 컨트리뷰션 아카데미[체험형] Next.js 팀원들이 작성한 TIL을 모아둔 블로그예요.
 
 ## 🚀 Activities
 - **2025 Open Source SW Contribution Academy.** Mentee ( 2025.04 ~ 2025.05 )
