@@ -20,9 +20,8 @@
 > 2025 오픈 소스 컨트리뷰션 아카데미 [체험형] - Next.js 멘티들이 작성한 TIL을 모아둔 블로그입니다.
 
 ## 🚀 Activities
-- **2025 Open Source SW Contribution Academy.** Mentee ( 2025.04 ~ 2025.05 )
-- 컨퍼런스, 세미나, 웨비나 등 행사에 혼자서라도 참여하여 **인사이트를 얻는 것**을 좋아해요.
-  - 🔗 [참여행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
+컨퍼런스, 세미나, 웨비나 등 행사에 혼자서라도 참여하여 **인사이트를 얻는 것**을 좋아해요.
+- 🔗 [참여행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
 
 <br>
 
