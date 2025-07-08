@@ -16,7 +16,7 @@
 > 조선대학교 인액터스 동아리가 운영하는 서비스로, 학생들의 식비 부담을 줄이고 상점의 유통기한 임박 재고를 해결하기 위해 마감 할인 메뉴를 제공하는 서비스입니다.
 
 ### [**2025 OSSCA Next.js TIL BLOG**](https://ossca-team-nextjs.vercel.app/)
-#### Mentee ( 2025.04 ~ 2025.06 )
+#### Mentee ( 2025.04 ~ Refactoring )
 > 2025 오픈 소스 컨트리뷰션 아카데미 [체험형] - Next.js 멘티들이 작성한 TIL을 모아둔 블로그입니다.
 
 ## 🚀 Activities
