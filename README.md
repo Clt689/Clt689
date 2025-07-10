@@ -11,7 +11,7 @@
 - **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )
 
 ## 🖥️ Project
-### [**Mayo(마감해요)**](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmayo_magam%2F&is_from_rle) 
+### [**Mayo(마감해요)**](https://linktr.ee/mayo.magamm?fbclid=PAZXh0bgNhZW0CMTEAAacBQwoTacbN6Ia8taWFIzo2feCHTpKXmW2JYyP2ugPOa6Empj7V0du8BH6aDA_aem_bJLXrgaF173PyTqLlt3Fuw) 
 #### Web Frontend Developer ( 2025.04 ~ )
 > 조선대학교 인액터스 동아리가 운영하는 서비스로, 학생들의 식비 부담을 줄이고 상점의 유통기한 임박 재고를 해결하기 위해 마감 할인 메뉴를 제공하는 서비스입니다.
 
