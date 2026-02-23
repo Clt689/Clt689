@@ -22,11 +22,12 @@
 ## 🚀 Activities
 > 컨퍼런스, 세미나, 웨비나 등 행사에 혼자서라도 참여하여 **인사이트를 얻는 것**을 좋아해요.<br>
 🔗 [참여행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
-- **TEOConf 2025,** Staff
-- **FEConf 2025,** Staff
-- **2025 Open Source Contribution Academy Team Next.js,** Experiential Mentee
-- **TEOConf 2024,** Staff
-- **2024 Wanted High-Five Conference,** Staff
+- **DDD(Dynamic Designer Developer) 13기**, 웹 프론트엔드
+- **TEOConf 2025,** 스태프(운영진)
+- **FEConf 2025,** 스태프
+- **2025 Open Source Contribution Academy Team Next.js,** 참여형 멘티
+- **TEOConf 2024,** 스태프
+- **2024 Wanted High-Five Conference,** 스태프(프렌즈)
 
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/nadnerde)](https://velog.io/@nadnerde/posts)
 
