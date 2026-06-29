@@ -12,7 +12,7 @@
 - **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )
 
 ## 🖥️ Project
-### [Detox Mate(디톡스 메이트)](https://github.com/DDD-Community/detox.mate-fe) ( 2026.03 ~ ing )
+### [디톡스 메이트(Detox Mate)](https://github.com/DDD-Community/detox.mate-fe) ( 2026.03 ~ ing )
 > 지인들과 팀을 구성하여, 개인 스크린 타임 목표를 향해 함께 디지털 디톡스를 할 수 있는 iOS 어플입니다.
 
 ### [**2025 OSSCA Next.js TIL BLOG**](https://ossca-team-nextjs.vercel.app/) ( 2025.04 ~ 2025.06 )
@@ -21,10 +21,11 @@
 ## 🚀 Activities
 > 컨퍼런스, 세미나, 웨비나 등 행사에 혼자서라도 참여하여 **인사이트를 얻는 것**을 좋아해요.<br>
 🔗 [참여행사 목록](https://celestial-vise-b17.notion.site/17b6fb311ab580c4bb3ae538051c30dd)
+- **테오 X 엘리스랩 AI 스프린트,** 참가자
 - **DDD(Dynamic Designer Developer) 13기**, 웹 프론트엔드
 - **TEOConf 2025,** 스태프(운영진)
 - **FEConf 2025,** 스태프
-- **2025 Open Source Contribution Academy Team Next.js,** 참여형 멘티
+- **2025 오픈 소스 컨트리뷰션 아카데미 - Next.js팀,** 참여형 멘티
 
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/nadnerde)](https://velog.io/@nadnerde/posts)
 
