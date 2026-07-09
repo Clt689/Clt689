@@ -13,7 +13,9 @@
 
 ## 🖥️ Project
 ### [디톡스 메이트(Detox Mate)](https://github.com/DDD-Community/detox.mate-fe) ( 2026.03 ~ ing )
-> 지인들과 팀을 구성하여, 개인 스크린 타임 목표를 향해 함께 디지털 디톡스를 할 수 있는 iOS 어플입니다.
+> 지인들과 팀을 구성하여, 각자의 스크린 타임 목표를 설정해 서로 응원하며 함께 디지털 디톡스를 할 수 있는 iOS 어플입니다.
+
+현재 MVP는 출시되었고, 유저 데이터를 통해 개선 중이에요. 
 
 ### [**2025 OSSCA Next.js TIL BLOG**](https://ossca-team-nextjs.vercel.app/) ( 2025.04 ~ 2025.06 )
 > 2025 오픈 소스 컨트리뷰션 아카데미 [체험형] - Next.js 멘티들이 작성한 TIL을 모아둔 블로그입니다.
