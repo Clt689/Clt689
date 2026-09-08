@@ -8,8 +8,8 @@
  I believe that there is no experience without **learning**. Even bad experiences definitely teach us something. -->
 
 ## 🏢 Work Experience
-- **Inzisoft.** Software Engineer ( 2025.01 ~ now )   
-- **TeamSparta.** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )
+- **인지소프트** Software Engineer ( 2025.01 ~ now )   
+- **팀스파르타** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )
 
 ## 🖥️ Project
 ### [디톡스 메이트(Detox Mate)](https://github.com/DDD-Community/detox.mate-fe) ( 2026.03 ~ ing )
