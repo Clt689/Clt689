@@ -12,13 +12,11 @@
 - **팀스파르타** B2B Web Publisher Intern ( 2024.09 ~ 2024.12 )
 
 ## 🖥️ Project
-### [디톡스 메이트(Detox Mate)](https://github.com/DDD-Community/detox.mate-fe) ( 2026.03 ~ ing )
-> 지인들과 팀을 구성하여, 각자의 스크린 타임 목표를 설정해 서로 응원하며 함께 디지털 디톡스를 할 수 있는 iOS 어플입니다.
-
-현재 MVP(V1)는 출시되었고, 유저 데이터를 통해 V2로 피봇 중이에요. 
-
 ### [디프만 코어 서비스](https://github.com/DDD-Community/detox.mate-fe) ( 2026.08 ~ ing )
 > 출석, 회식, 세션 공지, 멤버 관리 등 디프만 동아리의 모든 활동을 지원하는 코어 서비스입니다.
+
+### [디톡스 메이트(Detox Mate)](https://github.com/DDD-Community/detox.mate-fe) ( 2026.03 ~ 2026.11 )
+> 지인들과 팀을 구성하여, 각자의 스크린 타임 목표를 설정해 서로 응원하며 함께 디지털 디톡스를 할 수 있는 iOS 어플입니다.
 
 ### [**2025 OSSCA Next.js TIL BLOG**](https://ossca-team-nextjs.vercel.app/) ( 2025.04 ~ 2025.06 )
 > 2025 오픈 소스 컨트리뷰션 아카데미 [체험형] - Next.js 멘티들이 작성한 TIL을 모아둔 블로그입니다.
